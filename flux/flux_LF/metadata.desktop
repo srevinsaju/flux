@@ -1,0 +1,20 @@
+[Desktop Entry]
+Comment= Desktop for Plasma KDE
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=FluxDark
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=srevinsaju
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=srevin03@gmail.com
+X-KDE-PluginInfo-License=GPLv2+
+X-KDE-PluginInfo-Name=FluxDark
+X-KDE-PluginInfo-Version=2.0
+X-KDE-PluginInfo-Website=
+X-KDE-fallbackPackage=org.kde.breeze.desktop
+X-Plasma-MainScript=defaults
+
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1311536,kns://plasma-themes.knsrc/api.kde-look.org/1311533,kns://aurorae.knsrc/api.kde-look.org/1313099,kns://kwinswitcher.knsrc/api.kde-look.org/1303919,kns://icons.knsrc/api.kde-look.org/1313204,kns://plasmoids.knsrc/api.kde-look.org/1312669,kns://xcursor.knsrc/api.kde-look.org/1312474,kns://wallpaper.knsrc/api.kde-look.org/1312507,kns://wallpaper.knsrc/api.kde-look.org/1313210,kns://servicemenu.knsrc/api.kde-look.org/1313714,kns://servicemenu.knsrc/api.kde-look.org/1313711,kns://servicemenu.knsrc/api.kde-look.org/1313707,kns://sddmtheme.knsrc/api.kde-look.org/1309044
