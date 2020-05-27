@@ -8,7 +8,7 @@ TitleAlignment=Center
 TitleVerticalAlignment=Center
 UseTextShadow=true
 Shadow=true
-Animation=0
+Animation=1
 TextShadowOffsetX=1
 TextShadowOffsetY=1
 
@@ -29,10 +29,11 @@ TitleEdgeRightMaximized=8
 TitleEdgeBottomMaximized=1
 TitleEdgeLeftMaximized=8
 
-TitleHeight=22
+TitleHeight=24
 ButtonWidth=16
 ButtonHeight=16
-ButtonMarginTop=2
+ButtonMarginTop=4
+ButtonMarginBottom=4
 ButtonSpacing=4
 
 PaddingTop=40

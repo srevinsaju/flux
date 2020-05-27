@@ -8,7 +8,15 @@ if [ "$UID" -eq "$ROOT_UID" ]; then
 else
   DEST_DIR="$HOME/.themes"
 fi
-
+echo "d88888b db      db    db db    db"
+echo "88      88      88    88  8b  d8"
+echo "88ooo   88      88    88   8bd8 "
+echo "88      88      88    88   dPYb "
+echo "88      88booo. 88b  d88 .8P  Y8."
+echo "YP      Y88888P ~Y8888P  YP    YP"
+echo "================================="
+echo "copyleft @srevinsaju 2020"
+echo "================================="
 REO_DIR=$(cd $(dirname $0) && pwd)
 SRC_DIR=${REO_DIR}/src
 
