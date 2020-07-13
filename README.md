@@ -28,8 +28,14 @@ chmod +x install.sh
 
 ```
 ## About
-Flux theme is a combination of Pear Dark and Vimix GTK
+Flux theme is a modded combination of 
+[Pear Dark](https://store.kde.org/p/1313728/), 
+[Layan Dark Theme](https://github.com/vinceliuice/Layan-gtk-theme) and 
+[Vimix GTK](https://github.com/vinceliuice/vimix-gtk-themes)
 
-```
-(c) Srevin Saju
-```
+
+(c) 
+Srevin Saju <[srevinsaju](https://github.com/srevinsaju)>, 
+Vince <[vinceliuice](https://github.com/vinceliuice)> (creator of Vimix and Layan) and 
+Adhe <[adhec](https://github.com/adhec)> (creator of PearDark Theme)
+
