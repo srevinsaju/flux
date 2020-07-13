@@ -1,5 +1,9 @@
 # Flux
 
+![preview for Flux theme](flux/flux_LF/contents/previews/preview.jpg)
+
+![chromium using Flux Theme](flux/flux_LF/contents/previews/chromium.jpg)
+
 ## Installation
 Install all themes with one command
 
@@ -38,4 +42,5 @@ Flux theme is a modded combination of
 Srevin Saju <[srevinsaju](https://github.com/srevinsaju)>, 
 Vince <[vinceliuice](https://github.com/vinceliuice)> (creator of Vimix and Layan) and 
 Adhe <[adhec](https://github.com/adhec)> (creator of PearDark Theme)
+
 
