@@ -1,5 +1,11 @@
 # Flux
 
+> **:warning: This repository is no longer maintained, and contains visual glitches, feel free to fork and work on it if you like**
+
+
+-----------
+
+
 ![preview for Flux theme](flux/flux_LF/contents/previews/preview.jpg)
 
 ![chromium using Flux Theme](flux/flux_LF/contents/previews/chromium.jpg)
